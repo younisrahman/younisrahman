@@ -2,6 +2,9 @@
 
 <br />
 
+ <img align="right" alt="GIF" src="https://github.com/younisrahman/younisrahman/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**
