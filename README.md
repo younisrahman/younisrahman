@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/younisrahman007">
   <img align="left" alt="Younis's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://younisrahman.com">
   <img align="left" alt="Younis's Web" width="32px" src="https://raw.githubusercontent.com/younisrahman/younisrahman/main/web.jpeg" />
 </a>
 
@@ -42,16 +42,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
-```text
-TypeScript   6 hrs 45 mins   ████████████▓░░░░░░░░░░░░   51.02 %
-JSX          4 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   36.08 %
-JavaScript   1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-```
-
+<img src="https://github.com/younisrahman/images/stat.svg" alt="Alternative Text"/>
 <!--END_SECTION:waka-->
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=younisrahman&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=younisrahman&show_icons=true&theme=gotham" alt="younisrahman" />
