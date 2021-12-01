@@ -42,7 +42,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **this week i spent my time on:**
 
 <!--START_SECTION:waka-->
-<img src="https://github.com/younisrahman/images/stat.svg" alt="Alternative Text"/>
 <!--END_SECTION:waka-->
 
 📈 my github stats
