@@ -17,7 +17,7 @@
 I'm [Younis Rahman](https://younisrahman.com/), React Native developer
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-<img align="right" src="https://api.daily.dev/devcards/0a556d3c22664c5483354e66ade45364.png?r=usb" width="400" alt="Younis Rahman's Dev Card"/>
+<img align="right" src="https://api.daily.dev/devcards/0a556d3c22664c5483354e66ade45364.png?r=usb" width="300" alt="Younis Rahman's Dev Card"/>
 
 - 💬 ask me about anything, i am happy to help;
 
