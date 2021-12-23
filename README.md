@@ -50,7 +50,7 @@ Other        14 mins         ▒░░░░░░░░░░░░░░░░
 Python       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
-
+<!-- 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=younisrahman&show_icons=true&theme=gotham" alt="younisrahman" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=younisrahman&show_icons=true&theme=gotham" alt="younisrahman" /> -->
