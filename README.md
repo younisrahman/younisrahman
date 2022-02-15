@@ -43,6 +43,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:waka-->
 ```text
+Total: 48 hrs 20 mins
+
 TypeScript   41 hrs 55 mins  █████████████████████▓░░░   86.45 % 
 JSON         2 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 YAML         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
