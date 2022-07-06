@@ -44,7 +44,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       1 hr 55 mins    █████████████░░░░░░░░░░░░   51.58 %
+TypeScript   1 hr 46 mins    ████████████░░░░░░░░░░░░░   47.63 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
