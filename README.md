@@ -45,8 +45,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ```text
 TypeScript   3 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.57 %
-JavaScript   2 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-C++          1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+JavaScript   2 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+C++          1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
 JSON         1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
 Text         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
