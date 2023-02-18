@@ -44,10 +44,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript      23 hrs 11 mins  ███████████████████████▓░   94.67 %
-JSON            40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Objective-C++   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Other           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript      25 hrs 22 mins  ███████████████████████▓░   94.31 %
+JSON            46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Other           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
