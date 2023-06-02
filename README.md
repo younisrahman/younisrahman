@@ -43,7 +43,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript      13 hrs 19 mins  ███████████████░░░░░░░░░░   60.65 %
 Other           2 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
 Bash            1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
