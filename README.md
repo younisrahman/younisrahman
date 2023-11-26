@@ -44,11 +44,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      14 hrs 11 mins  ████████████████▒░░░░░░░░   65.29 %
-CocoaPods       2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-JSON            1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Objective-C++   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Groovy          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+TypeScript      20 hrs 7 mins   ██████████████████▒░░░░░░   72.69 %
+CocoaPods       2 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+JSON            1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Objective-C++   1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Groovy          46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
