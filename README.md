@@ -44,11 +44,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 15 mins   ██████████████████▓░░░░░░   75.10 %
-Bash         1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Groovy       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   2 hrs 40 mins   ███████████████▓░░░░░░░░░   63.00 %
+Bash         1 hr 11 mins    ███████░░░░░░░░░░░░░░░░░░   27.88 %
+Other        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Groovy       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
