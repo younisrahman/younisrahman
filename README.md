@@ -44,11 +44,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      8 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   35.59 %
-JavaScript      5 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.57 %
-CSS             5 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
-HTML            2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-Objective-C     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+TypeScript      10 hrs 33 mins  ██████████▒░░░░░░░░░░░░░░   40.95 %
+JavaScript      5 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
+CSS             5 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.91 %
+HTML            2 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Objective-C     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
