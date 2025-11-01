@@ -46,7 +46,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ```txt
 TypeScript                 7 hrs 52 mins   ██████████▓░░░░░░░░░░░░░░   42.70 %
 JavaScript                 5 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 %
-JSON                       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+JSON                       1 hr 34 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 Python                     1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 YAML                       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
